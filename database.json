@@ -1,0 +1,16 @@
+{
+    "books": {
+        "science": {
+            "a book": {
+                "available": false,
+                "refrences": [""]
+            }
+        },
+        "business": {
+
+        },
+        "time management": {
+
+        }
+    }
+}
