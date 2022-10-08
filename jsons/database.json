@@ -1,0 +1,47 @@
+{
+    "n": {
+        "science": {
+            "a book": {
+                "description": "idk",
+                "rating": 4.3,
+                "name": "a book",
+                "available": false,
+                "refrences": ["abook", "a buk", "good book"],
+                "reviews": ["good book", "bad book", "boring book", "-1 book"]
+            }
+        },
+        "business": {
+            "boredom": {
+                "description": "idk",
+                "rating": 3.5,
+                "name": "boredom",
+                "available": false,
+                "refrences": ["very boring", "bored", "unboredom"],
+                "reviews": ["good book", "bad book", "boring book", "-1 book"]
+            }
+        },
+        "timemanagement": {
+
+        },
+        "education": {
+
+        },
+        "biography": {
+
+        }
+    },
+    "f": {
+        "fantasy": {
+
+        },
+        "horror": {
+
+        },
+        "scifi": {
+
+        },
+        "mystery": {
+
+        }
+    }
+}
